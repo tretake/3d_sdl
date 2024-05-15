@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(17,91): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(17,82): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(98,62): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(98,53): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(98,44): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(98,35): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(99,62): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(99,53): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(99,44): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(99,35): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(100,62): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(100,53): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(100,44): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(100,35): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(101,62): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(101,53): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(101,44): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(101,35): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(103,62): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(103,53): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(103,44): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(103,35): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(104,62): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(104,53): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(104,44): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\SDL3d\main.cpp(104,35): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  SDL3d.vcxproj -> C:\Users\ruanl\OneDrive\Desktop\programação_legacy\dev\SDL3d\x64\Debug\SDL3d.exe
